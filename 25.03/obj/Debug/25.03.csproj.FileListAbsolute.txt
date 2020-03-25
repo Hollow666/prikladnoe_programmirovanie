@@ -1,0 +1,9 @@
+C:\projects\C#\25.03\bin\Debug\25.03.exe.config
+C:\projects\C#\25.03\bin\Debug\25.03.exe
+C:\projects\C#\25.03\bin\Debug\25.03.pdb
+C:\projects\C#\25.03\obj\Debug\25.03.csprojAssemblyReference.cache
+C:\projects\C#\25.03\obj\Debug\_25._03.Form1.resources
+C:\projects\C#\25.03\obj\Debug\_25._03.Properties.Resources.resources
+C:\projects\C#\25.03\obj\Debug\25.03.csproj.GenerateResource.cache
+C:\projects\C#\25.03\obj\Debug\25.03.exe
+C:\projects\C#\25.03\obj\Debug\25.03.pdb
