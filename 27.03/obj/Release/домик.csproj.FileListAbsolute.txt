@@ -1,0 +1,9 @@
+C:\projects\C#\домик\bin\Release\домик.exe.config
+C:\projects\C#\домик\bin\Release\домик.exe
+C:\projects\C#\домик\bin\Release\домик.pdb
+C:\projects\C#\домик\obj\Release\домик.csprojAssemblyReference.cache
+C:\projects\C#\домик\obj\Release\домик.Form1.resources
+C:\projects\C#\домик\obj\Release\домик.Properties.Resources.resources
+C:\projects\C#\домик\obj\Release\домик.csproj.GenerateResource.cache
+C:\projects\C#\домик\obj\Release\домик.exe
+C:\projects\C#\домик\obj\Release\домик.pdb
